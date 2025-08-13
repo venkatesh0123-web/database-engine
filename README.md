@@ -1,4 +1,4 @@
-jjjjj# Database-Engine
+# Database-Engine
 Database Engine that supports some features like:
 - Creating a table.
 - Inserting into a table.
